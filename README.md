@@ -1,3 +1,1 @@
-# Hello-World
-mi primer Hello World con GitHub
-es importante el hacer este paso para un nuevo codigo con GitHub
+ESTA ES MI TAREA DE CREAR UNA API CON LOS METODOS DE TTHP, EN NODEJS, creando imagenes de docker-compose para mi db y mi app.
